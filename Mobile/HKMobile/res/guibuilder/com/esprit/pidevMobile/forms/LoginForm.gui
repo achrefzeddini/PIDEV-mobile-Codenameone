@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="LayeredLayout" layeredLayoutPreferredWidthMM="80.0" layeredLayoutPreferredHeightMM="120.0"  autolayout="true" styles="bgColor:90f2a; transparency:0; bgImage:;" title="LoginForm" scrollableY="true" name="LoginForm">
+  <component type="Label" uiid="Logo" text="Logo" name="Logo">
+    <layoutConstraint insets="12.175649% auto auto auto" referenceComponents="-1 -1 -1 -1" referencePositions="0.0 0.0 0.0 0.0" />
+  </component>
+  <component type="TextField" text="E-mail" hintIcon="fontImage:e0be" name="emailTF">
+    <layoutConstraint insets="auto auto 42.51497% auto" referenceComponents="-1 -1 -1 -1" referencePositions="0.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="Button" preferredSize="65.18092mm inherit" name="Button">
+    <layoutConstraint insets="5.0mm 0.0mm 72.45509% 0.0mm" referenceComponents="-1 -1 -1 -1" referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="fb" preferredSize="65.18092mm inherit" name="Button_1">
+    <layoutConstraint insets="3.0mm auto 65.35433% auto" referenceComponents="6 6 -1 6 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="Sign up" preferredSize="64.94129mm inherit" icon="fontImage:e85d" name="signupBTN">
+    <layoutConstraint insets="auto auto 2.0mm auto" referenceComponents="1 1 -1 1 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="TextField" text="Password" hintIcon="fontImage:e897" name="passwordTF">
+    <layoutConstraint insets="1.5mm auto auto auto" referenceComponents="1 1 -1 1 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="Login" styles="bgImage:;" preferredSize="65.18092mm inherit" icon="fontImage:e898" pressedIcon="fontImage:e898" name="loginBTN">
+    <layoutConstraint insets="2.5mm auto 75.14793% 0.0mm" referenceComponents="5 5 -1 1 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+</component>

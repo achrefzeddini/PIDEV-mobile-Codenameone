@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <image name="load.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Button.align" value="4" />
+        <val key="Button.bgColor" value="ff0033" />
+        <border key="Button.border" type="round" roundBorderColor="16711731" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="Button.fgColor" value="fcfcfc" />
+        <font key="Button.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="0" actualSize="12.0" />
+        <val key="Button.margin" value="10.0,10.0,50.0,50.0" />
+        <val key="Button.press#align" value="4" />
+        <val key="Button.press#bgColor" value="ff0033" />
+        <border key="Button.press#border" type="round" roundBorderColor="16711731" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="Button.press#fgColor" value="fcfcfc" />
+        <font key="Button.press#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="0" actualSize="12.0" />
+        <val key="Button.press#margin" value="10.0,10.0,50.0,50.0" />
+        <val key="Button.press#transparency" value="255" />
+        <val key="Button.transparency" value="255" />
+        <val key="Form.bgColor" value="52d" />
+        <val key="Label.fgColor" value="ffffff" />
+        <font key="Label.font" type="system" face="0" style="0" size="0" />
+        <val key="MultiButton.bgColor" value="cccccc" />
+        <border key="MultiButton.border" type="roundRect" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10.0" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" topOnlyMode="false" bottomOnlyMode="false" cornerRadius="5.0" bezierCorners="true" />
+        <val key="MultiButton.fgColor" value="ffffff" />
+        <font key="MultiButton.font" type="ttf" face="0" style="0" size="16" name="native:MainBold" family="native:MainBold" sizeSettings="2" actualSize="12.0" />
+        <val key="MultiButton.margin" value="7.5,7.5,16.0,16.0" />
+        <val key="MultiButton.padding" value="0.0,0.0,10.0,0.0" />
+        <val key="MultiButton.press#bgColor" value="bbccfa" />
+        <border key="MultiButton.press#border" type="roundRect" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10.0" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" topOnlyMode="false" bottomOnlyMode="false" cornerRadius="5.0" bezierCorners="true" />
+        <val key="MultiButton.press#fgColor" value="ffffff" />
+        <font key="MultiButton.press#font" type="ttf" face="0" style="0" size="16" name="native:MainBold" family="native:MainBold" sizeSettings="2" actualSize="12.0" />
+        <val key="MultiButton.press#margin" value="5.0,5.0,16.0,16.0" />
+        <val key="MultiButton.press#padding" value="0.0,0.0,10.0,0.0" />
+        <val key="MultiButton.press#transparency" value="255" />
+        <val key="MultiButton.transparency" value="255" />
+        <val key="SideNavigationPanel.bgColor" value="52d" />
+        <val key="SideNavigationPanel.fgColor" value="ff0033" />
+        <val key="TextField.align" value="1" />
+        <val key="TextField.bgColor" value="cccccc" />
+        <border key="TextField.border" type="round" roundBorderColor="13421772" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="TextField.fgColor" value="000000" />
+        <font key="TextField.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="1" actualSize="12.0" />
+        <val key="TextField.margin" value="0.5,0.5,2.5,2.5" />
+        <val key="TextField.press#align" value="1" />
+        <val key="TextField.press#bgColor" value="cccccc" />
+        <border key="TextField.press#border" type="round" roundBorderColor="13421772" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="TextField.press#fgColor" value="000000" />
+        <font key="TextField.press#font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="1" actualSize="12.0" />
+        <val key="TextField.press#transparency" value="255" />
+        <val key="TextField.sel#align" value="1" />
+        <val key="TextField.sel#bgColor" value="cccccc" />
+        <border key="TextField.sel#border" type="round" roundBorderColor="13421772" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="TextField.sel#fgColor" value="000000" />
+        <font key="TextField.sel#font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="1" actualSize="12.0" />
+        <val key="TextField.sel#transparency" value="255" />
+        <val key="TextField.transparency" value="255" />
+    </theme>
+</resource>

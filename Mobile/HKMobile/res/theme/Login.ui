@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Login" cloudDestinationProperty="Login" >
+  <component type="Container" name="Container" cloudDestinationProperty="ContainerCENTER" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+  </component>
+</component>
